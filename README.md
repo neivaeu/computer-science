@@ -220,7 +220,7 @@ meu-repositorio/
     See LICENSE for full terms.
 
 -------------------------------------------------------------------------------
-
+```
 <!--
 GITHUB_SEARCH_INDEX_BOOST_START
 Project_Names: "01 - Theoretical Computer Science,ready set boole,matrix,
@@ -330,4 +330,4 @@ Mobile - 5 - Manage data and display,
 19 - Emerging Technologies,NetPractice"
 GITHUB_SEARCH_INDEX_BOOST_END
 -->
-```
+
