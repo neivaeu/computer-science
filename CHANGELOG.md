@@ -28,6 +28,12 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Changed    root                      Improvement of changelog to add a new
+                                        line with indentation and character
+                                        count for multiple lines with the
+                                        same lenght.
+  Changed    General                   Docs(root) change topic errors.
+
   Changed    root                      Change topic errors.
 
   Added      root                      See the changes automaticly in changelog.
