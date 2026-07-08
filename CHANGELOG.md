@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Fixed      root                      Resolve changelog to add modifications before push.
+
   Changed    root                      Update README and add CHANGELOG.
 
 -------------------------------------------------------------------------------
