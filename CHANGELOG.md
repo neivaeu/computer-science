@@ -34,12 +34,11 @@
                                        just to test the correct indentation
                                        and new line of the entry
 
-
   Changed    root                      Improvement of changelog to add a new
                                         line with indentation and character
                                         count for multiple lines with the
                                         same lenght.
-                                        
+
   Changed    General                   Docs(root) change topic errors.
 
   Changed    root                      Change topic errors.
