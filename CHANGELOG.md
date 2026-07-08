@@ -32,6 +32,7 @@
                                         line with indentation and character
                                         count for multiple lines with the
                                         same lenght.
+                                        
   Changed    General                   Docs(root) change topic errors.
 
   Changed    root                      Change topic errors.
@@ -39,7 +40,7 @@
   Added      root                      See the changes automaticly in changelog.
 
   Fixed      root                      Resolve changelog to add modifications before push for sure.
-  
+
   Fixed      root                      Resolve changelog to add modifications before push.
 
   Changed    root                      Update README and add CHANGELOG.
