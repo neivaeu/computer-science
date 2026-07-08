@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Added      root                      See the changes automaticly in changelog.
+
   Fixed      root                      Resolve changelog to add modifications before push for sure.
   Fixed      root                      Resolve changelog to add modifications before push.
 
