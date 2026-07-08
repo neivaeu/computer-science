@@ -1,0 +1,32 @@
+```text
+-------------------------------------------------------------------------------
+                                 CHANGELOG
+-------------------------------------------------------------------------------
+
+  Repository : computer-science
+  Owner      : Pedro Neiva | preis-ne (@neivaeu)
+  Website    : https://www.neiva.pt
+  GitHub     : https://github.com/neivaeu
+  LinkedIn   : https://linkedin.com/in/neivaeu
+  Updated    : July 2026
+  Copyright  : (c) 2026 Pedro Neiva. All rights reserved.
+
+-------------------------------------------------------------------------------
+                              FORMAT REFERENCE
+-------------------------------------------------------------------------------
+
+  Entries are grouped chronologically by month under a header (-- YYYY-MM --).
+  Each individual entry follows this three-column structure:
+
+    CATEGORY     Added / Changed / Fixed / Removed / Security / Research
+    DOMAIN       The affected technological domain(s) or root structure
+    DESCRIPTION  What was done and why
+
+-------------------------------------------------------------------------------
+                                 CHANGELOG
+-------------------------------------------------------------------------------
+
+  -- 2026-07 ------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+```
