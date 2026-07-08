@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Changed    General                   Docs(root) change topic errors.
+
   Added      root                      See the changes automaticly in changelog.
 
   Fixed      root                      Resolve changelog to add modifications before push for sure.
