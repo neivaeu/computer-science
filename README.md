@@ -47,16 +47,16 @@
 
   T︀h︀e︁ l︀a︀b︀o︁r︀a︀t︁o︀r︁y︁ i︀s︁ s︁y︀s︁t︁e︀m︁a︀t︀i︁c︀a︀l︀l︁y︁ c︀a︁t︀e︀g︁o︀r︀i︀z︁e︀d︀ i︀n︁t︀o︁ 19 s︀p︁e︀c︀i︀a︀l︀i︁z︁e︀d︁ d︀o︀m︁a︁i︁n︁s︁:
 ┌──────────────────────────────────────────────────────────────────────────────────┐
-| 01-algorithms-and-complexity         | 11-distributed-systems-and-cloud          |
-| 02-low-level-and-system-programming  | 12-databases-and-storage                  |
-| 03-data-structures-and-types         | 13-machine-learning-and-ai                |
-| 04-compiler-design-and-parsing       | 14-computer-graphics-and-vision           |
-| 05-operating-systems-and-kernel      | 15-software-engineering-and-architecture  |
-| 06-network-stack-and-protocols       | 16-devops-and-infrastructure              |
-| 07-web-and-mobile-engineering        | 17-quantum-and-high-performance-computing |
-| 08-cybersecurity-and-cryptography    | 18-embedded-systems-and-iot               |
-| 09-reverse-engineering-and-malware   | 19-mathematics-and-formal-methods         |
-| 10-concurrent-and-parallel-computing |                                           |
+| 01-theoretical-computer-science      | 11-data-science-databases                 |
+| 02-algorithms-data-structures        | 12-computer-graphics                      |
+| 03-programming-languages             | 13-human-computer-interaction             |
+| 04-compilers-interpreters            | 14-distributed-parallel-computing         |
+| 05-computer-architecture             | 15-cloud-computing-devops                 |
+| 06-operating-systems                 | 16-embedded-systems-iot                   |
+| 07-computer-networks                 | 17-computational-science                  |
+| 08-cybersecurity-cryptography        | 18-quantum-computing                      |
+| 09-software-engineering              | 19-emerging-technologies                  |
+| 10-artificial-intelligence           |                                           |
 └──────────────────────────────────────────────────────────────────────────────────┘
 
 -------------------------------------------------------------------------------
