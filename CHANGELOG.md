@@ -32,6 +32,12 @@
                                        to correctly add lines and
                                        indentation. This line is this long
                                        just to test the correct indentation
+                                       and new line of the entry. Second test
+
+  Changed    root                      Refine the changelog script
+                                       to correctly add lines and
+                                       indentation. This line is this long
+                                       just to test the correct indentation
                                        and new line of the entry
 
   Changed    root                      Improvement of changelog to add a new
