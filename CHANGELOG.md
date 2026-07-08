@@ -28,15 +28,18 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
-  Changed    General                   Docs(root) change topic errors.
+  Changed    root                      Change topic errors.
 
   Added      root                      See the changes automaticly in changelog.
 
   Fixed      root                      Resolve changelog to add modifications before push for sure.
+  
   Fixed      root                      Resolve changelog to add modifications before push.
 
   Changed    root                      Update README and add CHANGELOG.
+
   Changed    General                   Gitignore.
+
   Changed    General                   First error README.
 
 -------------------------------------------------------------------------------
