@@ -28,6 +28,9 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Added      00-dotfiles/scripts/art/b Add art badge.
+             adges/                    
+
   Changed    root                      Refine the changelog script
                                        to correctly add lines and
                                        indentation. This line is this long
