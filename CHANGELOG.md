@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Changed    root                      Change a tabel in README.
+
   Changed    root                      Add png files exception on gitignore.
 
   Changed    00-dotfiles/scripts/art/b Delete art badges files.
