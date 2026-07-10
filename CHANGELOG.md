@@ -28,6 +28,9 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Changed    00-dotfiles/scripts/art/b Delete art badges files.
+             adges/                    
+
   Added      00-dotfiles/scripts/art/b Add art badge.
              adges/                    
 
