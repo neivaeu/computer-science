@@ -28,6 +28,11 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Added      root                      Add CHANGELOG, CITATION,
+                                       CODE_OF_CONDUCT, CONTRIBUTING,
+                                       GOVERNANCE, LICENSE, README, SECURITY,
+                                       SUPPORT and .editorconfig
+
   Changed    root                      Change a tabel in README.
 
   Changed    root                      Add png files exception on gitignore.
