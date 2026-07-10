@@ -46,18 +46,18 @@
 -------------------------------------------------------------------------------
 
   T︀h︀e︁ l︀a︀b︀o︁r︀a︀t︁o︀r︁y︁ i︀s︁ s︁y︀s︁t︁e︀m︁a︀t︀i︁c︀a︀l︀l︁y︁ c︀a︁t︀e︀g︁o︀r︀i︀z︁e︀d︀ i︀n︁t︀o︁ 19 s︀p︁e︀c︀i︀a︀l︀i︁z︁e︀d︁ d︀o︀m︁a︁i︁n︁s︁:
-┌──────────────────────────────────────────────────────────────────────────────────┐
-| 01-theoretical-computer-science      | 11-data-science-databases                 |
-| 02-algorithms-data-structures        | 12-computer-graphics                      |
-| 03-programming-languages             | 13-human-computer-interaction             |
-| 04-compilers-interpreters            | 14-distributed-parallel-computing         |
-| 05-computer-architecture             | 15-cloud-computing-devops                 |
-| 06-operating-systems                 | 16-embedded-systems-iot                   |
-| 07-computer-networks                 | 17-computational-science                  |
-| 08-cybersecurity-cryptography        | 18-quantum-computing                      |
-| 09-software-engineering              | 19-emerging-technologies                  |
-| 10-artificial-intelligence           |                                           |
-└──────────────────────────────────────────────────────────────────────────────────┘
+ ┌───────────────────────────────────────────────────────────────────────────┐
+ | 01-theoretical-computer-science      | 11-data-science-databases          |
+ | 02-algorithms-data-structures        | 12-computer-graphics               |
+ | 03-programming-languages             | 13-human-computer-interaction      |
+ | 04-compilers-interpreters            | 14-distributed-parallel-computing  |
+ | 05-computer-architecture             | 15-cloud-computing-devops          |
+ | 06-operating-systems                 | 16-embedded-systems-iot            |
+ | 07-computer-networks                 | 17-computational-science           |
+ | 08-cybersecurity-cryptography        | 18-quantum-computing               |
+ | 09-software-engineering              | 19-emerging-technologies           |
+ | 10-artificial-intelligence           |                                    |
+ └───────────────────────────────────────────────────────────────────────────┘
 
 -------------------------------------------------------------------------------
                             STRUCTURE — OVERVIEW
