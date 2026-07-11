@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Fixed      root                      Add exceptions to gitignore.
+
   Added      root                      .editorconfig, CITATION and LICENSE
 
   Added      root                      Add CHANGELOG, CITATION,
