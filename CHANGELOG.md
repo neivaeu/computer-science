@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Added      root                      .editorconfig, CITATION and LICENSE
+
   Added      root                      Add CHANGELOG, CITATION,
                                        CODE_OF_CONDUCT, CONTRIBUTING,
                                        GOVERNANCE, LICENSE, README, SECURITY,
