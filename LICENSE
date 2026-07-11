@@ -1,0 +1,164 @@
+--------------------------------------------------------------------------------
+                        COPYRIGHT NOTICE & LICENSE
+--------------------------------------------------------------------------------
+
+  Repository : computer-science
+  Owner      : Pedro Neiva | preis-ne (@neivaeu)
+  Website    : https://www.neiva.pt
+  GitHub     : https://github.com/neivaeu
+  LinkedIn   : https://linkedin.com/in/neivaeu
+  Updated    : July 2026
+  Copyright  : (c) 2026 Pedro Neiva. All rights reserved.
+
+--------------------------------------------------------------------------------
+                                OWNERSHIP
+--------------------------------------------------------------------------------
+
+  This repository and its entire contents — including but not limited to
+  source code, documentation, architectural designs, configuration files,
+  research notes, laboratory experiments, challenge solutions, knowledge base
+  entries, diagrams, post-mortems, toolchain scripts, and project structures
+  — are the exclusive intellectual property of Pedro Neiva | preis-ne (@neivaeu).
+
+  This is NOT exclusively a 42 School repository. While it contains projects
+  developed during the 42 School curriculum, it is a personal Computer Science
+  laboratory and knowledge base that extends far beyond any single academic
+  institution, encompassing major university coursework, offensive security
+  research, competitive programming, and independent engineering across all 19
+  technological domains. See README.md for the exhaustive project catalogue.
+
+--------------------------------------------------------------------------------
+                                RESTRICTIONS
+--------------------------------------------------------------------------------
+
+  1. NO COPYING
+     Unauthorized copying of any content is strictly prohibited, regardless
+     of the source of inspiration for that content. This includes partial
+     copies, adaptations, and translations into other programming languages.
+
+  2. NO REDISTRIBUTION
+     You may not redistribute, publish, host, mirror, archive, or share any
+     part of this repository without explicit written permission from
+     Pedro Neiva. This applies to all hosting platforms, including GitHub,
+     GitLab, Bitbucket, Gitea, Codeberg, and any cloud or file-sharing service.
+
+  3. NO COMMERCIAL USE
+     Commercial use of any material from this repository is strictly
+     prohibited. This includes using implementations as the basis for
+     commercial products, services, or consulting deliverables.
+
+  4. NO CLAIMING OWNERSHIP
+     You may not claim authorship or ownership of any code, documentation,
+     architecture, or concept found in this repository.
+
+  5. INTENTIONALLY MODIFIED & CONCEPTUAL CODE
+     Certain scripts, algorithms, and security proofs-of-concept contain
+     deliberate errors, missing logic, or modified structures. This is done
+     purposely to demonstrate theoretical concepts while preventing blind
+     copy-pasting. Running copied code without full comprehension will fail.
+
+  6. 42 SCHOOL STUDENTS
+     Copying any part of this code for submission at 42 School or any of
+     its campuses worldwide constitutes plagiarism and a violation of the
+     42 Peer-to-Peer integrity system.
+
+  7. OTHER ACADEMIC INSTITUTIONS
+     The same prohibition applies to MIT OpenCourseWare, Harvard CS50,
+     Stanford, Princeton, Berkeley, Carnegie Mellon, Oxford, ETH Zurich,
+     EPFL, or any other academic challenge, course, or institution worldwide.
+
+  8. SECURITY CONTENT
+     Content in 08-cybersecurity-and-cryptography/, 04-laboratory/,
+     06-challenges/02-ctf-and-wargames/, and 07-chaos/ demonstrates
+     vulnerability exploitation, reverse engineering, malware analysis,
+     and adversarial techniques for strictly educational and research
+     purposes within controlled academic contexts. Misuse of any content
+     in these domains for malicious, illegal, or unauthorized purposes
+     is the sole legal and ethical responsibility of the actor.
+
+--------------------------------------------------------------------------------
+                                PERMITTED USE
+--------------------------------------------------------------------------------
+
+  READ-ONLY REFERENCE
+  This repository may be viewed for personal, non-commercial educational
+  reference only. Any use beyond passive reading requires explicit written
+  authorization from Pedro Neiva.
+
+  CITATION
+  Academic or professional citation of this repository is permitted and
+  encouraged. Use the provided CITATION.cff for correct attribution.
+
+  ┌────────────────────────────────────────────────────────────────────────┐
+  | Action                                                 |   Permitted   |
+  ├────────────────────────────────────────────────────────────────────────┤
+  | Viewing code for personal educational reference        |   Yes         |
+  | Learning from concepts and approaches demonstrated     |   Yes         |
+  | Citing this repository using CITATION.cff              |   Yes         |
+  | Copying code for any purpose                           |   No          |
+  | Redistributing or hosting copies                       |   No          |
+  | Commercial use of any content                          |   No          |
+  | Claiming authorship of any content                     |   No          |
+  | Forking and republishing under a different identity    |   No          |
+  └────────────────────────────────────────────────────────────────────────┘
+
+--------------------------------------------------------------------------------
+                                ENFORCEMENT
+--------------------------------------------------------------------------------
+
+  DMCA & EUROPEAN / PORTUGUESE LAW (DSA / CDADC)
+  Unauthorized copies of this work found on GitHub, European servers, or
+  any other platform worldwide violate international copyright standards
+  and will be subject to immediate DMCA and European Digital Services Act
+  (DSA) Notice and Action takedowns.
+
+  ACADEMIC PLAGIARISM
+  Evidence of academic plagiarism using content from this repository will
+  be reported immediately to the relevant academic institution, honor
+  councils, and pedagogical teams with full documentation.
+
+  DETECTION & WATERMARKING
+  This repository contains deliberate architectural choices, metadata, code
+  fingerprinting, and intentional code traps to facilitate detection of
+  unauthorized copies.
+
+--------------------------------------------------------------------------------
+                      DETECTING UNAUTHORIZED COPIES
+--------------------------------------------------------------------------------
+
+  If you find an unauthorized copy of this repository or its content:
+
+    1. Open a GitHub Issue titled: [PLAGIARISM] <link to copy>
+    2. Include the URL of the unauthorized copy
+    3. Describe what was copied and from which file or project
+
+  Or contact directly via: https://linkedin.com/in/neivaeu
+
+--------------------------------------------------------------------------------
+                  SUBDIRECTORY EXCEPTIONS & EXTERNAL LINKS
+--------------------------------------------------------------------------------
+
+  SUBDIRECTORY LICENSES
+  Specific subdirectories may contain their own LICENSE files granting
+  additional permissions (e.g., MIT, GPL, or Apache 2.0 for specific tools
+  or libraries). In such cases, the subdirectory license governs only the
+  contents of that specific subdirectory.
+
+  EXTERNAL LINKS AND THIRD-PARTY REFERENCES
+  Any external tools, repositories, websites, or documentation linked via
+  hypertext references throughout this project remain the sole intellectual
+  property of their respective original authors and are governed entirely by
+  their independent licenses. This root license governs all content not
+  covered by a more specific subdirectory license or external reference.
+
+--------------------------------------------------------------------------------
+                                DISCLAIMER
+--------------------------------------------------------------------------------
+
+  THE MATERIALS ARE PROVIDED "AS IS" FOR REFERENCE PURPOSES ONLY.
+  IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+  DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OR MISUSE OF THESE
+  MATERIALS, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
+
+--------------------------------------------------------------------------------

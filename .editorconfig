@@ -1,0 +1,24 @@
+#-------------------------------------------------------------------------------
+#                                EDITORCONFIG                                  #
+#-------------------------------------------------------------------------------
+
+root = true
+
+[*]
+charset                  = utf-8
+end_of_line              = lf
+insert_final_newline     = true
+trim_trailing_whitespace = true
+indent_style             = space
+indent_size              = 4
+
+[*.{c,h,cpp,hpp,cc,hh,cxx,hxx,s,asm,S,Makefile,*.mk,go}]
+indent_style = tab
+indent_size  = 4
+
+[*.{ml,mli,js,ts,jsx,tsx,mjs,cjs,rb,yml,yaml,json,jsonc,json5,toml,md,markdown,sh,bash,zsh,fish,tf,hcl,tfvars,CMakeLists.txt,*.cmake,xml,html,htm,xhtml,svg,css,scss,sass,less,cff,vim,vimrc,lua,zshrc,zprofile,zshenv,bashrc,bash_profile,profile}]
+indent_style = space
+indent_size  = 2
+
+[*.{md,markdown}]
+trim_trailing_whitespace = true

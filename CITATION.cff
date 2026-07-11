@@ -1,0 +1,60 @@
+--------------------------------------------------------------------------------
+                                   CITATION
+--------------------------------------------------------------------------------
+
+  Repository : computer-science
+  Owner      : Pedro Neiva | preis-ne (@neivaeu)
+  Website    : https://www.neiva.pt
+  GitHub     : https://github.com/neivaeu
+  LinkedIn   : https://linkedin.com/in/neivaeu
+  Updated    : July 2026
+  Copyright  : (c) 2026 Pedro Neiva. All rights reserved.
+
+--------------------------------------------------------------------------------
+                                  HOW TO CITE
+--------------------------------------------------------------------------------
+
+  If you reference, adapt, or build upon any material from this repository
+  in academic work, research papers, blog posts, or technical writing,
+  please cite it using the information below.
+
+  Citing this repository is permitted and encouraged. It is one of the few
+  uses of this material that does not require additional authorisation.
+  See LICENSE for the full terms of permitted use.
+
+--------------------------------------------------------------------------------
+                            PLAIN TEXT CITATION
+--------------------------------------------------------------------------------
+
+  Neiva, Pedro. computer-science: A Personal Computer Science Knowledge
+  Base and Project Archive. July 2026. GitHub repository.
+  https://github.com/neivaeu/computer-science
+
+--------------------------------------------------------------------------------
+                           STRUCTURED CITATION DATA
+--------------------------------------------------------------------------------
+
+  Title         : computer-science
+  Subtitle      : A Personal Computer Science Knowledge Base and
+                  Project Archive
+  Author        : Pedro Neiva
+  Handle        : @neivaeu
+  Date          : July 2026
+  Type          : Software / Knowledge Base / Project Archive
+  Repository    : https://github.com/neivaeu/computer-science
+  Website       : https://www.neiva.pt
+  License       : All Rights Reserved (see LICENSE)
+
+--------------------------------------------------------------------------------
+                                  ABSTRACT
+--------------------------------------------------------------------------------
+
+  A personal, living knowledge base and software engineering laboratory
+  covering 19 technological domains of computer science, organised across
+  21 root directories. It systematically documents standalone system
+  implementations, major university coursework (42 School, MIT, Harvard,
+  Stanford, Oxford, ETH Zurich, EPFL), offensive security research and
+  vulnerability PoCs (HackTheBox, HackerOne, PortSwigger), competitive
+  programming algorithms, and independent concept laboratories.
+
+--------------------------------------------------------------------------------
