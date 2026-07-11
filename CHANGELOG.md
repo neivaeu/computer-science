@@ -28,6 +28,9 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Changed    root                      Change CITATION to yaml to be parse
+                                       by github.
+
   Fixed      root                      Add exceptions to gitignore.
 
   Added      root                      .editorconfig, CITATION and LICENSE
