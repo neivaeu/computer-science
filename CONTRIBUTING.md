@@ -150,7 +150,6 @@
 
   ENCODING AND LINE ENDINGS
     UTF-8. LF (Unix line endings).
-    Enforced by .editorconfig.
 
   TRAILING WHITESPACE
     None. All files must end with exactly one newline.
