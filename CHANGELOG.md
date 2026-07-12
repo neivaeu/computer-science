@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Changed    [8ab8030]   root                      Fix CHANGELOG duplicated entries.
+
   Changed    [fd79347]   root                      Change a file to test the changelog
                                                    script.
 
