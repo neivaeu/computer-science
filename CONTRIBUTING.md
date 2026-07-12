@@ -173,7 +173,7 @@
   |  Assembly         |   tabs     |   --  |
   └────────────────────────────────────────┘
 
-  C AND C++ (42 SCHOOL PROJECTS)
+  C (42 SCHOOL PROJECTS)
     Must comply with the 42 Norminette.
     https://github.com/42School/norminette
 
@@ -181,10 +181,8 @@
     Clean code principles:
       - Meaningful variable and function names
       - Single responsibility per function
-      - No magic numbers — use named constants
       - Proper error handling — no silent failures
       - No dead code, no commented-out blocks
-      - No global state unless architecturally required
 
   MARKDOWN FILES
     Follows .markdownlint.json rules.
@@ -229,3 +227,4 @@
     All names are fixed, intentional, and governed by the owner.
 
 --------------------------------------------------------------------------------
+```

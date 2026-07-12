@@ -109,4 +109,5 @@
   All significant structural and editorial decisions are recorded in
   CHANGELOG.md with date, category, and description.
 
---------------------------------------------------------------------------------
+```--------------------------------------------------------------------------------
+```
