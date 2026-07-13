@@ -1,4 +1,3 @@
-```text
 --------------------------------------------------------------------------------
                                 CONTRIBUTING
 --------------------------------------------------------------------------------
@@ -159,17 +158,18 @@
   ┌────────────────────────────────────────┐
   |  Language         |   Style    | Width |
   ├────────────────────────────────────────┤
-  |  C / C++          |   spaces   |   4   |
+  |  C / C++          |   tabs     |   4   |
+  |  Makefile         |   tabs     |   4   |
+  |  Assembly         |   tabs     |   4   |
   |  Python           |   spaces   |   4   |
   |  Java             |   spaces   |   4   |
-  |  Rust             |   spaces   |   4   |
+  |  JavaScript / TS  |   spaces   |   2   |
+  |  Web (HTML/CSS)   |   spaces   |   2   |
   |  OCaml            |   spaces   |   2   |
+  |  Shell            |   spaces   |   2   |
   |  YAML             |   spaces   |   2   |
   |  JSON             |   spaces   |   2   |
   |  Markdown         |   spaces   |   2   |
-  |  Shell            |   spaces   |   2   |
-  |  Makefile         |   tabs     |   --  |
-  |  Assembly         |   tabs     |   --  |
   └────────────────────────────────────────┘
 
   C (42 SCHOOL PROJECTS)
@@ -226,4 +226,3 @@
     All names are fixed, intentional, and governed by the owner.
 
 --------------------------------------------------------------------------------
-```

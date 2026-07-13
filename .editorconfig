@@ -12,11 +12,23 @@ trim_trailing_whitespace = true
 indent_style             = space
 indent_size              = 4
 
-[*.{c,h,cpp,hpp,cc,hh,cxx,hxx,s,asm,S,Makefile,*.mk,go}]
+[*.{c,h,cpp,hpp,cc,hh,cxx,hxx,s,asm,S,go}]
 indent_style = tab
 indent_size  = 4
 
-[*.{ml,mli,js,ts,jsx,tsx,mjs,cjs,rb,yml,yaml,json,jsonc,json5,toml,md,markdown,sh,bash,zsh,fish,tf,hcl,tfvars,CMakeLists.txt,*.cmake,xml,html,htm,xhtml,svg,css,scss,sass,less,cff,vim,vimrc,lua,zshrc,zprofile,zshenv,bashrc,bash_profile,profile}]
+[{Makefile,*.mk}]
+indent_style = tab
+indent_size  = 4
+
+[*.{py,pyw,java,rs}]
+indent_style = space
+indent_size  = 4
+
+[*.{ml,mli,js,ts,jsx,tsx,mjs,cjs,rb,php,yml,yaml,json,jsonc,json5,toml,ini,conf,md,markdown,sh,bash,zsh,fish,tf,hcl,tfvars,xml,html,htm,xhtml,svg,css,scss,sass,less,cff,vim,lua,sql,txt,csv}]
+indent_style = space
+indent_size  = 2
+
+[{.env*,.gitignore,.dockerignore,.editorconfig,Dockerfile,CMakeLists.txt,*.cmake,*rc,*rc.local,*.profile,zshenv,zprofile}]
 indent_style = space
 indent_size  = 2
 
