@@ -28,6 +28,8 @@
 
   -- 2026-07 ------------------------------------------------------------------
 
+  Changed    [193a7d9]   root                      Fix some style issues in CONTRIBUTING.
+
   Changed    [e542f36]   root                      Add more files configs to editorconfig.
 
   Changed    [8ab8030]   root                      Fix CHANGELOG duplicated entries.
